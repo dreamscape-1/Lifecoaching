@@ -743,7 +743,7 @@
      EDIT THIS ONE LINE: paste your Calendly link below.
      Every "Book" button on the page will use it.
      ===================================================== */
-  var CALENDLY_URL = "https://calendly.com/YOUR-CALENDLY-LINK";
+  var CALENDLY_URL = "https://calendly.com/pathways-with-rt/30min";
 
   /* Every "Book" button opens the calendar in a pop-up on this page.
      (Ctrl/Cmd-click or middle-click still opens Calendly in a new tab.) */
